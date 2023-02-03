@@ -35,4 +35,5 @@ void async function () {
         prePrice = Math.max(prePrice1, prePrice2)
     }
     console.log(prePrice)
+    console.log('123')
 }()
