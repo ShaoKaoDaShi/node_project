@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "gitPush":"git add .;read changes;git commit -m \"$changes\"; git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
